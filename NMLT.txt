@@ -1,0 +1,26 @@
+Đề thi nhập môn lập trình (75 phút)
+
+Câu 1: Viết hàm chuyển số giây t về dạng hh:mm:ss và xuất kết quả. Số giây >= 0, sai thì báo không hợp lệ.
+void chuyenThoiGian(int t)
+
+Câu 2: Cho mảng 1 chiều a chứa n số nguyên. Viết hàm:
+a. Kiểm tra xem mảng có phải là mảng toàn chẵn và tăng không? (Mảng tăng là phần tử sau lớn hơn phần tử trước)
+b. Viết hàm tính tổng các phần tử có đúng 2 chữ số trong a.
+
+Câu 3: Cho chuỗi S và 1 số nguyên chỉ vị trí index. Viêt hàm lấy ra chuỗi con của S được tạo thành từ vị trí index đến cuối của chuỗi S.
+yêu cầu viết hàm có prototype như sau:
+char* subString (char* s, int index);
+
+Câu 4: Cho ma trận vuông A cấp n chứa số nguyên. Viêt hàm tính tích của các số khác 0 trên đường chéo phụ. Nếu đường chéo phụ không có các phần tử khác 0 thì trả về 1.
+
+Câu 5: Số IMEI là chuỗi tối đa 20 ký tự
+Tên điện thoại là chuỗi tối đa 15 ký tự
+Giá bán là một số thực
+Năm sản xuất là một số nguyên
+
+a. Xây dựng cấu trúc SmartPhone để lưu thông tin 1 điện thoại
+b. Cho a là mảng chứa n điện thoại, xuất ra màn hình thông tin điện thoại có số IMEI là "23A459".
+
+HẾT
+
+Mỗi câu 2 điểm. Đề SIÊU DỄ và mang tính SỈ NHỤC CAO.

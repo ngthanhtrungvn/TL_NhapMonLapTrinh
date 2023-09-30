@@ -1,0 +1,10 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Bai13.cpp
+  Bai14.cpp
+D:\Workspace\C\nmlt\BT_Slide\Chuong_4\Chuong_4\Bai14.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\BT_Slide\Chuong_4\Chuong_4\Bai14.cpp(23,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai17.cpp
+  Bai19.cpp
+  Bai22.cpp
+  Generating Code...
+  Chuong_4.vcxproj -> D:\Workspace\C\nmlt\BT_Slide\Chuong_4\Debug\Chuong_4.exe

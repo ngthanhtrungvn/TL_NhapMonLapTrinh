@@ -1,0 +1,10 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Bai19.cpp
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(6,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(8,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(13,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(20,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(22,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(27,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\OnThi\Mang2Chieu_OnTap\Bai19.cpp(74,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Mang2Chieu_OnTap.vcxproj -> D:\Workspace\C\nmlt\OnThi\Debug\Mang2Chieu_OnTap.exe

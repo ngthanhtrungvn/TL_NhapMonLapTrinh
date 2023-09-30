@@ -1,0 +1,24 @@
+﻿  Bai1.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai1.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai1.cpp(6,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai2.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai2.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai2.cpp(6,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai3.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai3.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai3.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai3.cpp(9,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai4.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai4.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai4.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai4.cpp(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai4.cpp(14,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai5.1 sử dụng For.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.1 sử dụng For.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.1 sử dụng For.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.1 sử dụng For.cpp(10,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai5.cpp
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\nmlt\Sach_Xanh\chương 1\Bai5.cpp(31,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Generating Code...

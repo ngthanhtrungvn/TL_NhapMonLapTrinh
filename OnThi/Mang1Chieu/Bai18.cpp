@@ -1,0 +1,42 @@
+#include<conio.h>
+#include<stdio.h.>
+
+void nhapMang(int a[], int& n)
+{
+	printf("Nhap so luong phan tu: ");
+	scanf("%d", &n);
+	for (int i = 0; i < n; i++)
+	{
+		printf("Nhap a[%d]: ", i);
+		scanf("%d", &a[i]);
+	}
+
+}
+
+void xuatMang(int a[], int n) {
+	for (int i = 0; i < n; i++)
+	{
+		printf("%d ", a[i]);
+	}
+
+}
+
+int demKhongAm(int a[], int n) {
+	int dem = 0;
+	for (int i = 0; i < n; i++)
+	{
+		if (a[i] > 0)
+		{
+			dem++;
+		}
+	}
+	return dem;
+}
+void main() {
+	int a[100], n;
+	nhapMang(a, n);
+	xuatMang(a, n);
+	printf("\nCo %d so khong am trong mang", demKhongAm(a, n));
+	getch();
+
+}

@@ -1,0 +1,7 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Bai9.cpp
+D:\Workspace\C\nmlt\OnThi\Chuoi\Bai9.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\nmlt\OnThi\Chuoi\Bai9.cpp(27,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Bai8.cpp
+  Generating Code...
+  Chuoi.vcxproj -> D:\Workspace\C\nmlt\OnThi\Debug\Chuoi.exe
